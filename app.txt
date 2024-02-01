@@ -1,0 +1,2 @@
+URL ----> routes
+Views ----> Views are the result of the URL's
